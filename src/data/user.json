@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Alice",
+      "lastname": "Randriamahefa",
+      "email": "alice.randriamahefa@example.com",
+      "role": "Développeur"
+    },
+    {
+      "id": 2,
+      "firstname": "Bruno",
+      "lastname": "Rakoto",
+      "email": "bruno.rakoto@example.com",
+      "role": "Designer"
+    },
+    {
+      "id": 3,
+      "firstname": "Clara",
+      "lastname": "Andriatsitohaina",
+      "email": "clara.andriatsitohaina@example.com",
+      "role": "Manager"
+    },
+    {
+      "id": 4,
+      "firstname": "David",
+      "lastname": "Rasolo",
+      "email": "david.rasolo@example.com",
+      "role": "Testeur QA"
+    },
+    {
+      "id": 5,
+      "firstname": "Emma",
+      "lastname": "Andrianasolo",
+      "email": "emma.andrianasolo@example.com",
+      "role": "Développeur"
+    },
+    {
+      "id": 6,
+      "firstname": "Fano",
+      "lastname": "Rakotovao",
+      "email": "fano.rakotovao@example.com",
+      "role": "Chef de projet"
+    },
+    {
+      "id": 7,
+      "firstname": "Gina",
+      "lastname": "Razafindrakoto",
+      "email": "gina.razafindrakoto@example.com",
+      "role": "Product Owner"
+    },
+    {
+      "id": 8,
+      "firstname": "Hery",
+      "lastname": "Andriamanana",
+      "email": "hery.andriamanana@example.com",
+      "role": "Technicien"
+    },
+    {
+      "id": 9,
+      "firstname": "Ines",
+      "lastname": "Rajoelina",
+      "email": "ines.rajoelina@example.com",
+      "role": "Comptable"
+    },
+    {
+      "id": 10,
+      "firstname": "Joel",
+      "lastname": "Randrianarisoa",
+      "email": "joel.randrianarisoa@example.com",
+      "role": "Support"
+    }
+  ]
+}

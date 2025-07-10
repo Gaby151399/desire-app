@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 20px;
+    height: 5vh;
+    background-color: rgb(200, 200, 200);
+}
+
+.logo{
+   color: chocolate; 
+   font-weight: 800;
+   font-size: 24px;
+}
